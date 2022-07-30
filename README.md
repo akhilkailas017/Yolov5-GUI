@@ -27,7 +27,7 @@ C. Create Virtual Environment for python
 - type "deactivate" for deactivating virtual environment
 - if pip not showing in virtual folder type "python -m ensurepip" then upgrade pip
 
-H. References
+D. References
 
 - python : https://www.python.org/downloads/
 - labelImg : https://github.com/tzutalin/labelImg
