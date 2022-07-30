@@ -6,7 +6,7 @@
 
 A. Steps for running the GUI
 
-- copy this files in yolov5 folder
+- copy this files in yolov5 folder except yolov5+GUI.rar
 - open Detector-python.bat
 
 B. Steps for running the GUI in Python virtual environment
