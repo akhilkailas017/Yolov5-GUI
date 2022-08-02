@@ -4,12 +4,12 @@
 **First Reffer https://github.com/akhilkailas2001/Object-Detection-using-Yolov5.git<br>**
 **This is the continuation of Object Detection using Yolov5**
 
-A. Steps for running the GUI
+**Steps for running the GUI**
 
 - copy this files in yolov5 folder except yolov5+GUI.rar
 - open Detector-python.bat
 
-B. Steps for running the GUI in Python virtual environment
+**Steps for running the GUI in Python virtual environment**
 
 - open Detector.bat file in notpad
 - it will show this "..\..\virtual_python\Scripts\activate && python RunGUI.py"
@@ -17,7 +17,7 @@ B. Steps for running the GUI in Python virtual environment
 - save the file
 - open Detector.bat
 
-C. Create Virtual Environment for python
+**Create Virtual Environment for python**
 
 - download and install python
 - create a folder in our local disk
@@ -27,10 +27,7 @@ C. Create Virtual Environment for python
 - type "deactivate" for deactivating virtual environment
 - if pip not showing in virtual folder type "python -m ensurepip" then upgrade pip
 
-D. References
+**References**
 
 - python : https://www.python.org/downloads/
-- labelImg : https://github.com/tzutalin/labelImg
-- xml to yolo converter : https://github.com/bjornstenger/xml2yolo
 - yolov5 : https://github.com/ultralytics/yolov5
-- labelimg annotation tutorial : https://youtu.be/Tlvy-eM8YO4
